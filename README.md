@@ -7,3 +7,9 @@ The Book Store is a web app that recommends books and shows trending books.
 
 
 
+
+This is a Book Recommendation system using Collaborative filtering. The models was trained books dataset, and deployed in a Flask App. This is usable in book stores. Users find it friendly to get recommendations and the popular ortrending books in the store. 
+
+
+
+
